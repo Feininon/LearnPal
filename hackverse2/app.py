@@ -10,7 +10,7 @@ import datetime
 import logging
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
-print("no mail for u only jail")
+
 print("you got mail")
 # Initialize Flask app
 print("oh no not you")
