@@ -164,7 +164,7 @@ LearnPal is an interactive learning platform designed to help students enhance t
  GitHub: [ @SaiVignesh45](https://github.com/SaiVignesh45)
 
  -Pragati Sangari S R, 
- GitHub: [ @](https://github.com/)
+ GitHub: [ @Pragati08ps](https://github.com/Pragati08ps)
 
 
 
