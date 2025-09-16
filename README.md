@@ -152,6 +152,20 @@ LearnPal is an interactive learning platform designed to help students enhance t
 
 ---
 
-Enjoy using LearnPal! If you have any questions or feedback, please feel free to reach out.
+## TEAM
+
+-Gokulramanan V, 
+ GitHub: [ @Feininon](https://github.com/Feininon)
+
+ -Hanush M, 
+ GitHub: [ @Hanush0112](https://github.com/Hanush0112)
+
+-Sai Vignesh Raj M, 
+ GitHub: [ @SaiVignesh45](https://github.com/SaiVignesh45)
+
+ -Pragati Sangari S R, 
+ GitHub: [ @](https://github.com/)
+
+
 
 
