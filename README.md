@@ -152,7 +152,7 @@ LearnPal is an interactive learning platform designed to help students enhance t
 
 ---
 
-## TEAM
+## TEAM MEMBERS
 
 -Gokulramanan V, 
  GitHub: [ @Feininon](https://github.com/Feininon)
